@@ -49,10 +49,12 @@ Hi 👋 My name is **Salhine Rachid**
   </a>
 </p>
 
-### Socials
+---
+
+### 🌐 Socials
 
 <p align="left">
-  <a href="https://www.github.com/SalhineRachid" target="_blank" rel="noreferrer">
+  <a href="https://github.com/SalhineRachid" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/danielcranney/readme-generator@main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/danielcranney/readme-generator@main/public/icons/socials/github.svg" />
@@ -75,11 +77,13 @@ Hi 👋 My name is **Salhine Rachid**
   </a>
 </p>
 
-### Badges
+---
+
+### 🏆 Badges
 
 **My GitHub Stats**
 
 <a href="https://github.com/SalhineRachid">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalhineRachid&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=SalhineRachid&theme=highcontrast&hide_border=true&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Rachid's GitHub Streak" />
 </a>
 
