@@ -41,4 +41,18 @@ Web Developer
 
 <p align="left">
   <a href="https://github.com/SalhineRachid"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/SalhineRachid"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedi
+  <a href="https://www.linkedin.com/in/SalhineRachid"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" /></a>
+  <a href="https://discord.com/users/rachid_sl"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="32" height="32" alt="Discord" /></a>
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SalhineRachid&theme=highcontrast&hide_border=true&background=1c1917&ring=00ffff&fire=00ffff&currStreakNum=ffffff&currStreakLabel=00ffff&sideNums=ffffff&sideLabels=00ffff&dates=ffffff" alt="GitHub Streak" />
+</p>
+
+---
+
+⭐ *“Code. Learn. Improve. Repeat.”*
