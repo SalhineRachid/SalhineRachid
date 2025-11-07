@@ -1,58 +1,61 @@
-Hi 👋 My name is Salhine Rachid
-===============================
-
-Web Developer
--------------
-
-👋 Hi, I’m Rachid, a 3rd-year Computer Science student at USTHB.
-
-💻 I’m learning web development and focused on building modern, efficient, and scalable web applications.
-
-🧩 Currently working with React and Django to strengthen my full-stack development skills.
-
-🚀 Improving in Git, API integration, and project deployment.
-
-📚 Always exploring new technologies to grow as a developer.
-
-* 🌍  I'm based in Algeria  
-* ✉️  You can contact me at [salhinerachid@gmail.com](mailto:salhinerachid@gmail.com)  
-* 🧠  I'm currently learning Django and Django REST Framework  
-* 💬  Ask me about Winter is coming ❄️ — and so is a better, stronger developer.
-
----
-
-### 🧰 Skills
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /></a>
-  <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://vitejs.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="36" height="36" alt="Vite" /></a>
-  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.djangoproject.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" height="36" alt="Django" /></a>
-</p>
-
----
-
-### 🌐 Socials
-
-<p align="left">
-  <a href="https://github.com/SalhineRachid"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/SalhineRachid"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn" /></a>
-  <a href="https://discord.com/users/rachid_sl"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="32" height="32" alt="Discord" /></a>
-</p>
-
----
-
-### 🔥 GitHub Streak
+<h1 align="center">Hey there 👋, I'm Rachid!</h1>
+<h3 align="center">A passionate developer & tech learner from Algeria 💻</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SalhineRachid&theme=highcontrast&hide_border=true&background=1c1917&ring=00ffff&fire=00ffff&currStreakNum=ffffff&currStreakLabel=00ffff&sideNums=ffffff&sideLabels=00ffff&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://media.giphy.com/media/11bEsWc1vP1Fz2/giphy.gif" width="250" />
 </p>
 
 ---
 
-⭐ *“Code. Learn. Improve. Repeat.”*
+### 💫 About Me
+- 🌱 I’m currently learning **TypeScript, Django, and computer science fundamentals**  
+- 🧠 Exploring **backend development** and **AI integration**
+- 🥋 In my free time: **Taekwondo athlete** & anime lover  
+- 💬 Ask me about **React, Java, Python, or productivity systems**  
+- ⚡ Fun fact: *“I debug with coffee and anime soundtracks.”* ☕
+
+---
+
+### 📺 Favorite Anime & Series
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" width="180" alt="Naruto"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3kwZm9wdGNmcDlyanN2YWZxbHZqNWc2Z2phMGxoeHExcnY3ZmVldiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fYkH4iM1dR0Ww/giphy.gif" width="180" alt="Attack on Titan"/>
+  <img src="https://media.giphy.com/media/8YutMatqkTfSE/giphy.gif" width="180" alt="One Piece"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="180" alt="Breaking Bad"/>
+</p>
+
+---
+
+### 🧩 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,python,java,html,css,js,mysql,git,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 🌐 Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="220" alt="Thank you gif"/>
+</p>
+
+<h3 align="center">✨ Thanks for visiting! Stay awesome ✨</h3>
+
