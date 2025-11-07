@@ -1,61 +1,70 @@
-<h1 align="center">Hey there 👋, I'm Rachid!</h1>
-<h3 align="center">A passionate developer & tech learner from Algeria 💻</h3>
+<h1 align="center">🛡️ Salhine Rachid — The Developer from the North ❄️</h1>
+<h3 align="center">"Winter is Coming... and so is better code."</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/11bEsWc1vP1Fz2/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="280" alt="Throne" />
 </p>
 
 ---
 
-### 💫 About Me
-- 🌱 I’m currently learning **TypeScript, Django, and computer science fundamentals**  
-- 🧠 Exploring **backend development** and **AI integration**
-- 🥋 In my free time: **Taekwondo athlete** & anime lover  
-- 💬 Ask me about **React, Java, Python, or productivity systems**  
-- ⚡ Fun fact: *“I debug with coffee and anime soundtracks.”* ☕
+### ⚔️ About Me
+
+👋 Hi, I’m **Rachid**, a 3rd-year **Computer Science student at USTHB**,  
+a developer walking between two worlds — **the North of Westeros** and the **fjords of Vinland**.
+
+💻 I’m building modern, efficient, and scalable web applications forged in React ⚛️ and Django 🐍.  
+🚀 I’m improving in **Git**, **API integration**, and **deployment** — sharpening my blade one line of code at a time.  
+📚 Forever exploring new technologies to grow as a developer and warrior of logic.
+
+* 🌍  Based in **Algeria**  
+* ✉️  Reach me at [salhinerachid@gmail.com](mailto:salhinerachid@gmail.com)  
+* 🧠  Currently learning **Django REST Framework**  
+* 💬  Ask me about **Thorfinn’s determination** or **Jon Snow’s discipline** — both fuel my journey.
 
 ---
 
-### 📺 Favorite Anime & Series
+### ⚙️ Skills & Tools of the North
+
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" width="180" alt="Naruto"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3kwZm9wdGNmcDlyanN2YWZxbHZqNWc2Z2phMGxoeHExcnY3ZmVldiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fYkH4iM1dR0Ww/giphy.gif" width="180" alt="Attack on Titan"/>
-  <img src="https://media.giphy.com/media/8YutMatqkTfSE/giphy.gif" width="180" alt="One Piece"/>
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="180" alt="Breaking Bad"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /></a>
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /></a>
+  <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" /></a>
+  <a href="https://vitejs.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" /></a>
+  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /></a>
+  <a href="https://www.djangoproject.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" /></a>
 </p>
 
 ---
 
-### 🧩 Tech Stack
+### 🧊 The Northern Realm (Social Links)
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,python,java,html,css,js,mysql,git,vscode" />
+  <a href="https://github.com/SalhineRachid"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/SalhineRachid"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn" /></a>
+  <a href="https://discord.com/users/rachid_sl"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="36" height="36" alt="Discord" /></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 GitHub Streak of the Warrior
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=SalhineRachid&theme=dark&hide_border=true&background=0d1117&ring=00ffff&fire=00ffff&currStreakNum=ffffff&currStreakLabel=00ffff&sideNums=ffffff&sideLabels=00ffff&dates=ffffff" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🌐 Connect with me
+### ⚔️ Inspired By
+
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://media.giphy.com/media/l41lQx7Ucb5h6v6pC/giphy.gif" width="200" alt="Jon Snow" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl5ZWtrbzd6bjllNWZyd3FpaHlmYTFkN2F6bXplZ2p0bHY1NWZzMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohhwsUP4jVZb5xZsQ/giphy.gif" width="200" alt="Thorfinn" />
+  <img src="https://media.giphy.com/media/l0K4lxiU3F1LrjsuI/giphy.gif" width="200" alt="Daenerys" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="220" alt="Thank you gif"/>
-</p>
-
-<h3 align="center">✨ Thanks for visiting! Stay awesome ✨</h3>
-
+⭐ *“Code like a Viking. Think like a Stark. Endure like a warrior.”*
