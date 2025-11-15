@@ -1,5 +1,5 @@
 ⚔️ Salhine Rachid | Web Developer
-<p align="center"> <img src="https://media.giphy.com/media/11blXIbzKHndkM/giphy.gif" width="500" alt="Vinland Saga - Thorfinn Sword" /> </p>
+<p align="center"> <img src="https://media.tenor.com/oNnyP5oCC2UAAAAC/vinland-saga-thorfinn.gif" width="400" alt="Vinland Saga Thorfinn" /> </p>
 Winter is coming—and so is a better, stronger developer.
 
 I’m Rachid, a 3rd-year Computer Science student at USTHB, forging my own path in code much like Thorfinn’s journey or Jon Snow’s rise. I thrive on challenges—whether conquering new frameworks or defending my projects, every bug feels like a test from the North.
@@ -14,9 +14,20 @@ I’m Rachid, a 3rd-year Computer Science student at USTHB, forging my own path 
 
 🚩 Motto: "A true developer never forgets their roots—or their README."
 
-<p align="center"> <img src="https://media.giphy.com/media/q0ehQAbUH4QBm/giphy.gif" width="400" alt="Game of Thrones - Jon Snow Sword" /> </p>
+<p align="center"> <img src="https://media.tenor.com/FvIbqx81QYkAAAAd/game-of-thrones-got.gif" width="400" alt="Game of Thrones Jon Snow" /> </p>
 🧰 Skills
-<table> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" /><br>JavaScript</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" /><br>Python</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" /><br>React</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" /><br>Django</td> </tr> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" /><br>MySQL</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" /><br>Git</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" /><br>VS Code</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" /><br>TailwindCSS</td> </tr> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="36" /><br>Vite</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="36" /><br>DiscordJS</td> <td align="center" colspan="2"></td> </tr> </table>
+<details> <summary>Click to view my favorite stack</summary>
+Languages:
+
+Frontend:
+
+Backend:
+
+Database & Tools:
+
+Extracurricular:
+
+</details>
 🌐 Socials
 <p align="left"> <a href="https://github.com/SalhineRachid"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/SalhineRachid"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" /></a> <a href="https://discord.com/users/rachid_sl"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="32" alt="Discord" /></a> </p>
 🔥 GitHub Streak
