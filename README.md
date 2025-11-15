@@ -1,3 +1,13 @@
+Hi 👋 My name is Salhine Rachid
+===============================
+
+Web Developer
+-------------
+
+👋 Hi, I’m Rachid, a 3rd-year Computer Science student at USTHB.
+
+💻 I’m learning web development and focused on building modern, efficient, and scalable web applications.
+
 # 💫 About Me:
 🧩 Currently working with React and Django to strengthen my full-stack development skills.<br><br>🚀 Improving in Git, API integration, and project deployment.<br><br>📚 Always exploring new technologies to grow as a developer
 
