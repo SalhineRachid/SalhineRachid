@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="Guts from Berserk - Dramatic Walk" />
+  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="400" alt="Guts from Berserk - Sword Draw" />
 </p>
 
 <h2 align="center">🛡️ About Me 🛡️</h2>
@@ -27,7 +27,7 @@
 </ul>
 
 <p align="center">
-  <img src="https://gifs.alphacoders.com/gifs/view/219647" width="400" alt="Guts in Berserk - Rain Scene" />
+  <img src="https://media.giphy.com/media/Wn73lFKEFwSSQ/giphy.gif" width="400" alt="Guts in Berserk - Cape and Moon" />
 </p>
 
 <h2 align="center">⚔️ Vinland Saga Resolve ⚔️</h2>
@@ -76,11 +76,11 @@
 
 <p align="center"><i>“The path of the struggler is long, but so is the coder's journey.<br>In every dark forest of bugs and errors, there's always a way forward.”</i></p>
 
-[1](https://tenor.com/fr/search/guts-berserk-gifs)
-[2](https://giphy.com/explore/berserk)
-[3](https://gifs.alphacoders.com/gifs/view/219647)
-[4](https://tenor.com/fr/search/berserk-gifs)
-[5](https://www.tiktok.com/discover/guts-berserk-gif)
-[6](https://www.reddit.com/r/Berserk/comments/qd4lqz/looking_for_gif_or_video_of_guts_face_manga/)
-[7](https://giphy.com/explore/guts-berserk)
-[8](https://gifer.com/en/1Fca)
+[1](https://tenor.com/search/berserk-gifs)
+[2](https://giphy.com/explore/berserk-warrior)
+[3](https://gifs.alphacoders.com/gifs/view/222775)
+[4](https://www.youtube.com/watch?v=par0rwkCCB0)
+[5](https://www.tiktok.com/discover/guts-4k-gif)
+[6](https://www.reddit.com/r/Berserk/comments/28uiwe/this_subreddit_needs_more_gifs_gif_thread_anyone/)
+[7](https://www.facebook.com/groups/966036100777097/posts/1626863418027692/)
+[8](https://giphy.com/explore/berserk)
