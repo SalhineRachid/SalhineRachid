@@ -1,41 +1,41 @@
-<h1 align="center">⚔️ Hi there, I'm Rachid! ⚔️</h1>
+<h1 align="center">🌪️ Hi there, I'm Rachid! 🌪️</h1>
 
-<h2 align="center">💀 Berserk Dev Saga 💀</h2>
+<h2 align="center">💫 Neji Hyuga Dev Path 💫</h2>
 
 <p align="center">
   <strong>
-    I’m a 3rd-year Computer Science student at USTHB, passionate about slaying bugs and building powerful web applications.<br>
-    On my quest, I embrace the grit and growth of Guts in Berserk—relentlessly improving as a developer, one battle at a time, through teamwork and constant learning.<br><br>
-    ✨ Always hungry to sharpen my skills, take on tough coding battles, and contribute to epic projects! ✨
+    I’m a 3rd-year Computer Science student at USTHB, focused on perfecting my craft with the same discipline Neji Hyuga brought to every battle.<br>
+    Just as Neji transformed his fate through dedication and sharp skill, I strive to push past limits in coding, learning, and teamwork.<br><br>
+    ✨ Always ready to work hard, grow stronger, and make an impact—believing, like Neji, that true genius is persistence in disguise. ✨
   </strong>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="400" alt="Guts from Berserk - Sword Draw" />
+  <img src="https://media.tenor.com/JVp2LZAWe1wAAAAC/neji-hyuga.gif" width="320" alt="Neji Byakugan" />
 </p>
 
-<h2 align="center">🛡️ About Me 🛡️</h2>
+<h2 align="center">👁️ About Me 👁️</h2>
 
 <ul align="center">
   <li>🌍 Based in <b>Algeria</b></li>
   <li>🎯 Focus: Modern, scalable web applications</li>
   <li>🚀 Full-stack: <b>React</b> & <b>Django</b></li>
-  <li>🧱 Growing in Git, API integration, deployment</li>
+  <li>🧱 Advancing in Git, API integration, deployment</li>
   <li>📬 Contact: <a href="mailto:salhinerachid@gmail.com">salhinerachid@gmail.com</a></li>
-  <li>🛡️ Currently leveling up: <b>Django REST Framework</b></li>
-  <li>💬 Ask me about: Berserk, web dev, and RESTful APIs</li>
+  <li>🍃 Currently training: <b>Django REST Framework</b></li>
+  <li>💬 Ask me about: Destiny, coding, and Gentle Fist APIs</li>
 </ul>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Wn73lFKEFwSSQ/giphy.gif" width="400" alt="Guts in Berserk - Cape and Moon" />
+  <img src="https://64.media.tumblr.com/7b1065e7ffe5ffdf24b9eb2677b4e574/tumblr_nk9n03Y3ZT1r9ds3lo1_500.gifv" width="340" alt="Neji Gentle Fist" />
 </p>
 
-<h2 align="center">⚔️ Vinland Saga Resolve ⚔️</h2>
+<h2 align="center">🍃 Neji's Wise Words 🍃</h2>
 
 <p align="center">
-  <img src="https://media.tenor.com/Sg6G7QjFcnAAAAAC/vinland-saga-thorfinn.gif" width="400" alt="Thorfinn from Vinland Saga" />
+  <img src="https://media.tenor.com/1u43LotPiRIAAAAd/neji-naruto.gif" width="340" alt="Neji Hyuga Resolute" />
   <br>
-  <span><em>“If you want something, take it and never give up.”</em></span>
+  <span><em>“There’s no such thing as destiny. Only those who are strong enough to choose their own path.”</em></span>
 </p>
 
 <h2 align="center">⚙️ My Arsenal ⚙️</h2>
@@ -74,13 +74,12 @@
 
 ***
 
-<p align="center"><i>“The path of the struggler is long, but so is the coder's journey.<br>In every dark forest of bugs and errors, there's always a way forward.”</i></p>
+<p align="center"><i>“Genius is achieved through continuous hard work and self-belief.<br>Just as the Byakugan sees all, keep your mind open to all paths—your true nature is found in what you choose.”</i></p>
 
-[1](https://tenor.com/search/berserk-gifs)
-[2](https://giphy.com/explore/berserk-warrior)
-[3](https://gifs.alphacoders.com/gifs/view/222775)
-[4](https://www.youtube.com/watch?v=par0rwkCCB0)
-[5](https://www.tiktok.com/discover/guts-4k-gif)
-[6](https://www.reddit.com/r/Berserk/comments/28uiwe/this_subreddit_needs_more_gifs_gif_thread_anyone/)
-[7](https://www.facebook.com/groups/966036100777097/posts/1626863418027692/)
-[8](https://giphy.com/explore/berserk)
+[1](https://naruto.fandom.com/wiki/Neji_Hy%C5%ABga)
+[2](https://hero.fandom.com/wiki/Neji_Hy%C5%ABga)
+[3](https://practicaltyping.com/2018/08/17/neji-intj/)
+[4](https://www.cbr.com/neji-hyuga-naruto-most-underrated-character/)
+[5](https://www.lemon8-app.com/@my.lunch.bag.art/7524449628771664397?region=us)
+[6](https://www.reddit.com/r/respectthreads/comments/6hlm6u/respect_neji_hyuga_naruto/)
+[7](https://boruto.fandom.com/wiki/Neji_Hyuga)
