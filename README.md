@@ -27,7 +27,7 @@
 </ul>
 
 <p align="center">
-  <img src="[https://64.media.tumblr.com/7b1065e7ffe5ffdf24b9eb2677b4e574/tumblr_nk9n03Y3ZT1r9ds3lo1_500.gifv](https://tenor.com/view/byakugan-neji-gif-14609413237616447925)" width="340" alt="Neji Gentle Fist" />
+  <img src="https://tenor.com/view/byakugan-neji-gif-14609413237616447925" width="500px" hight="150px" alt="Neji Gentle Fist" />
 </p>
 
 <h2 align="center">🍃 Neji's Wise Words 🍃</h2>
